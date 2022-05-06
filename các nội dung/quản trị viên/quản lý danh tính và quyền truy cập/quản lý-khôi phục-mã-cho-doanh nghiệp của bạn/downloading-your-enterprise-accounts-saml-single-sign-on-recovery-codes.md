@@ -26,3 +26,4 @@ If you did not save your recovery codes when you configured SAML SSO, you can st
 
 2. To save your recovery codes, click **Download**, **Print**, or **Copy**.
 ![Screenshot of the buttons to download, print, or copy your recovery codes](/assets/images/help/saml/saml_recovery_code_options.png)
+ -your-enterprise-accounts-saml-single-sign-on-recovery-codes.md
